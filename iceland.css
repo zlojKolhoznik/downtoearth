@@ -54,7 +54,7 @@ a:hover{
     margin-top: 25px;
     margin-right: 25px;
     margin-left: 30px;
-    background: url("/img/plant.png");
+    background: url("/plant.png");
 }
 .windstation{
     width: 71px;
@@ -62,7 +62,7 @@ a:hover{
     margin-top: 25px;
     margin-right: 25px;
     margin-left: 30px;
-    background: url("/img/windstation.png");
+    background: url("/windstation.png");
 }
 .sun{
     width: 74px;
@@ -70,7 +70,7 @@ a:hover{
     margin-top: 25px;
     margin-right: 25px;
     margin-left: 30px;
-    background: url("/img/sun.png");
+    background: url("/sun.png");
 }
 .geothermal{
     width: 67px;
@@ -78,7 +78,7 @@ a:hover{
     margin-top: 25px;
     margin-right: 25px;
     margin-left: 30px;
-    background: url("/img/geothermal.png");
+    background: url("/geothermal.png");
 }
 .water{
     width: 46px;
@@ -86,7 +86,7 @@ a:hover{
     margin-top: 60px;
     margin-right: 45px;
     margin-left: 30px;
-    background: url("/img/water.png");
+    background: url("/water.png");
 }
 .video{
     margin-left: 20px;
