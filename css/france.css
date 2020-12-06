@@ -3,6 +3,8 @@
     font-family: 'Montserrat';
     opacity: 0;
     animation: _show 1s linear 100ms 1 normal forwards;
+    font-size: 16px;
+    line-height: 1.5;
 }
 html{
     background-color: #87ceeb;
