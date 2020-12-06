@@ -64,3 +64,9 @@ p{
     margin-bottom: 50px;
     margin-top: 50px;
 }
+.main-header{
+    color: #ffffff;
+    font-size: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
