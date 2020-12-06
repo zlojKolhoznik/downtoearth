@@ -57,6 +57,9 @@ p{
     font-weight: 700;
 }
 .main-header-2{
-    text-allign: center;
-    font-size: 30px;
-}
+    color: #000000;
+    font-size: 50px;
+    font-weight: 700;
+    padding-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px
